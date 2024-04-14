@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "custom_pipek")(type "KiCad")(uri "${KIPRJMOD}/custom_pipek.pretty")(options "")(descr ""))
+)
